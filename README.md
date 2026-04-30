@@ -57,9 +57,3 @@ Landing page website used by a band for public information and online presence.
 </p>
 
 ###
-
-<h3 align="left">📫 GitHub</h3>
-
-<p align="left">
-<a href="https://github.com/Haekalss">github.com/Haekalss</a>
-</p>
