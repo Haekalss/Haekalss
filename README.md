@@ -6,18 +6,13 @@
 
 <h1 align="center">Hi, I'm Haekal 👋</h1>
 
-<p align="center">
-💻 Informatics Engineering student <br>
-🌐 JavaScript & Web Developer <br>
-</p>
-
 ###
 
 <h3 align="left">🧠 About</h3>
 
 <p align="left">
 - Focus on building web applications for learning and portfolio<br>
-- Interested in frontend and backend development<br>
+- Interested in web development<br>
 - Currently improving project structure and real-world implementation
 </p>
 
